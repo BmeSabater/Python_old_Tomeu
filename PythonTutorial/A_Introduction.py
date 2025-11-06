@@ -2,6 +2,7 @@
 Created on 16 oct 2023
 
 Y hago un cambio aqui 
+Y este cambio es directo en GitHub
 
 This is my first python program
 Python introduction 
@@ -20,3 +21,4 @@ y = "hola como te va" # Creamos variable y
 
 print(x)
 print(y)
+
